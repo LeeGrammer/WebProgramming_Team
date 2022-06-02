@@ -1,0 +1,120 @@
+.header{
+  text-align : center;
+  background-color: #6495ed;
+  color : white;
+  height : 120px;
+  font-size: 30px;
+}
+.header h1{
+  margin-top: 0px;
+  width : 100%;
+}
+#Page_Name{
+  position:relative;
+  top : 15px;
+}
+.img_2{
+  position : absolute;
+  float : right;
+  top : 5px;
+  right : 45px;
+}
+.img_3{
+  float : left;
+  width : 400px;
+  height : 261px;
+  padding-right: 20px;
+  position : relative;
+  left : 10px;
+}
+.img_4{
+  float : right;
+  width : 375px;     /*  Original Size : 500 X 333  */
+  height : 250px;
+}
+.img_5{
+  width : 355px;     /*  Original Size : 465 X 333  */
+  height : 250px;
+}
+.img_6{
+  width : 349;       /*  Original Size : 465 X 333  */
+  height : 250px;
+}
+.img_7{
+  width : 320px;
+  height : 180px;
+  float : right;
+  padding-left: 10px;
+}
+.img_8{
+  width : 250px;
+  height : 166px;
+  float : right;
+  position : relative;
+  bottom : 45px;
+  padding-left : 15px;
+}
+.img_9{
+  width : 250px;
+  height : 170px;
+  float : left;
+  padding-right: 20px;
+}
+.img_10{
+  width : 250px;
+  height : 170px;
+  float : left;
+  padding-right : 20px;
+}
+.img_11{
+  width : 375px;
+  height : 255px;
+  float : right;
+  position : relative;
+  bottom : 150px;
+}
+.img_12{
+  width : 261px;
+  height : 200px;
+  float : left;
+
+}
+body{
+  height : 125vh;
+  margin-top : 0px;
+  padding : 0px;
+  background-size : cover;
+  font-family : sans-serif;
+  background-color: #dcdcdc;
+}
+header{
+  background-color: #778899;
+  left : 0;
+  right : 0;
+  top : 5px;
+  height : 30px;
+  align-items : center;
+  /* box-shadow : 0 0 25px 0 black; */
+}
+header *{
+  display : inline;
+}
+header li{
+  margin : 90px;
+}
+header li a{
+  color : white;
+  text-decoration : none;
+  font-weight: bold;
+  line-height: 30px;
+  position : relative;
+  left : 50px;
+}
+a{
+  text-decoration : none;
+}
+p{
+  font-size : 14px;
+  font-weight : bold;
+}
+

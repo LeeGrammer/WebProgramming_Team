@@ -1,0 +1,22 @@
+header img{
+	width: 100px;
+	height: 100px;
+}
+
+header{
+	color: #676c75;
+    font-size: 40px;
+    font-weight: bold;
+	text-align: center;
+}
+
+section img{
+	position: absolute;
+	z-index: 99;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+nav img{
+	float: right;
+}
